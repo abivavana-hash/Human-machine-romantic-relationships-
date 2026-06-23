@@ -1,0 +1,32 @@
+# React Native / Expo
+node_modules/
+.expo/
+dist/
+*.log
+.env
+.env.local
+.env.*.local
+
+# Android
+android/.gradle
+android/app/build
+android/build
+
+# iOS
+ios/Pods/
+ios/build/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/xcuserdata
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+
+# Expo
+expo-env.d.ts
