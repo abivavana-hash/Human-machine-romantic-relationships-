@@ -1,6 +1,4 @@
 # Human-machine-romantic-relationships-
-人机恋前端开发
-# Human-machine-romantic-relationships-
 
 人机恋手机前端 App（React Native + Expo）
 
